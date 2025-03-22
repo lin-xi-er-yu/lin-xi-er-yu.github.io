@@ -555,7 +555,7 @@ pre code {
   display: block;
   font-weight: 300;
   margin: 20px 0 0;
-  transform: translateY(10px); /* 进一步微调文字位置 */
+  transform: translateY(20px); /* 进一步微调文字位置 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
