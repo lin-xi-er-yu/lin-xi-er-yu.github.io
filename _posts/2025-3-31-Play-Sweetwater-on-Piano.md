@@ -8,7 +8,7 @@ header-img: img/ChatGPT-钢琴按键示意图.png
 catalog: true
 ---
 
-![钢琴按键示意图](img/ChatGPT-钢琴按键示意图.png)
+![钢琴按键示意图][(img/ChatGPT-钢琴按键示意图.png)](https://raw.githubusercontent.com/lin-xi-er-yu/lin-xi-er-yu.github.io/refs/heads/master/img/ChatGPT-%E9%92%A2%E7%90%B4%E6%8C%89%E9%94%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
 
 
 
