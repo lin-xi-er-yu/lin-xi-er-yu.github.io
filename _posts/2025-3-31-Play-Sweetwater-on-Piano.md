@@ -4,9 +4,11 @@ title: Play Sweetwater on Piano
 subtitle: start from zero
 date: 2025-3-31
 author: 林夕而渔
-header-img: img/航拍-多洛米蒂.jpg
+header-img: img/ChatGPT-钢琴按键示意图.png
 catalog: true
 ---
+
+![钢琴按键示意图](img/ChatGPT-钢琴按键示意图.png)
 
 
 
