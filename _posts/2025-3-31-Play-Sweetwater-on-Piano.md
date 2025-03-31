@@ -8,8 +8,7 @@ header-img: img/ChatGPT-钢琴按键示意图.png
 catalog: true
 ---
 
-![钢琴按键示意图][(img/ChatGPT-钢琴按键示意图.png)](https://raw.githubusercontent.com/lin-xi-er-yu/lin-xi-er-yu.github.io/refs/heads/master/img/ChatGPT-%E9%92%A2%E7%90%B4%E6%8C%89%E9%94%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
-
+![钢琴按键示意图][(https://github.com/lin-xi-er-yu/lin-xi-er-yu.github.io/blob/a002a72209230bbc6e6f6790c56e8670d987216a/img/ChatGPT-%E9%92%A2%E7%90%B4%E6%8C%89%E9%94%AE%E7%A4%BA%E6%84%8F%E5%9B%BE.png)  
 
 
 I see you want to play *Sweetwater* from *Westworld* immediately on your electronic piano, even though you're starting from zero. No problem! Here’s the fastest way to do it.
